@@ -1,4 +1,4 @@
-# -Multiple-Servomotor-Design
+# -Multiple-Servomotor-ThinkerCode
 // C++ code
 //
 #include <Servo.h>
