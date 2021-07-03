@@ -1,4 +1,4 @@
-# -Multiple-Servomotor-ThinkerCode
+# ThinkerCode
 // C++ code
 //
 #include <Servo.h>
